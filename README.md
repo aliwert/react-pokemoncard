@@ -2,7 +2,7 @@
 - This React application is a tool that generates a random Pokémon card using the PokeAPI. Each time users click the "Generate" button, a card displaying the characteristics of a random Pokémon is shown.
 
 ## How to Use ❓
-
+- When you click the 'Generate' button, you will see a new Pokémon card. It's that easy and simple to use.
 
 
 ## 🎅Usage
