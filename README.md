@@ -1,0 +1,2 @@
+# React Pokemon Generator
+- This React application is a tool that generates a random Pokémon card using the PokeAPI. Each time users click the "Generate" button, a card displaying the characteristics of a random Pokémon is shown.
